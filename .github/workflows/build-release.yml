@@ -96,22 +96,17 @@ jobs:
         if: runner.os == 'macOS'
         env:
           CSC_IDENTITY_AUTO_DISCOVERY: false
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npm run dist:mac
+        run: npm run dist:mac -- --publish never
 
       # Build for Windows
       - name: Build Windows
         if: runner.os == 'Windows'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npm run dist:win
+        run: npm run dist:win -- --publish never
 
       # Build for Linux
       - name: Build Linux
         if: runner.os == 'Linux'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npm run dist:linux
+        run: npm run dist:linux -- --publish never
 
       # Upload artifacts to GitHub Release
       - name: Upload to Release

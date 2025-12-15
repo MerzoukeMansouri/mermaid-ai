@@ -141,6 +141,7 @@
       ],
       "category": "Development",
       "icon": "build/icons",
+      "maintainer": "Mermaid Live Visualizer <merzouke@m14i.com>",
       "artifactName": "${productName}-${version}-${arch}.${ext}"
     },
     "appImage": {
