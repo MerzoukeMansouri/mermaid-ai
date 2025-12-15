@@ -32,24 +32,24 @@ npm start
 
 ## Features
 
-| Feature | Description |
-|---------|-------------|
-| 🔍 **Fuzzy Search** | Find files instantly |
-| 👁️ **Live Preview** | Real-time diagram updates |
-| 🔄 **File Watching** | Auto-reload on save |
-| 🎯 **Focus Mode** | Distraction-free viewing (F11) |
-| 🔎 **Zoom Controls** | Pan and zoom diagrams |
-| 🤖 **AI Editing** | Edit diagrams with Ollama |
+| Feature              | Description                    |
+| -------------------- | ------------------------------ |
+| 🔍 **Fuzzy Search**  | Find files instantly           |
+| 👁️ **Live Preview**  | Real-time diagram updates      |
+| 🔄 **File Watching** | Auto-reload on save            |
+| 🎯 **Focus Mode**    | Distraction-free viewing (F11) |
+| 🔎 **Zoom Controls** | Pan and zoom diagrams          |
+| 🤖 **AI Editing**    | Edit diagrams with Ollama      |
 
 ## Download
 
 Download the latest release for your platform:
 
-| Platform | Format |
-|----------|--------|
-| macOS | `.dmg` `.pkg` |
-| Windows | `.exe` |
-| Linux | `.AppImage` `.deb` |
+| Platform | Format             |
+| -------- | ------------------ |
+| macOS    | `.dmg` `.pkg`      |
+| Windows  | `.exe`             |
+| Linux    | `.AppImage` `.deb` |
 
 ## License
 
