@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MerzoukeMansouri/mermaid-live-visualizer-/releases/latest">
-    <img src="https://img.shields.io/github/v/release/MerzoukeMansouri/mermaid-live-visualizer-?style=flat-square&label=Download&color=blue" alt="Latest Release">
+  <a href="https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest">
+    <img src="https://img.shields.io/github/v/release/MerzoukeMansouri/mermaid-ai?style=flat-square&label=Download&color=blue" alt="Latest Release">
   </a>
 </p>
 
@@ -49,15 +49,15 @@ npm start
 
 ## Download
 
-Download the [latest release](https://github.com/MerzoukeMansouri/mermaid-live-visualizer-/releases/latest) for your platform:
+Download the [latest release](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest) for your platform:
 
 | Platform | Intel/AMD | Apple Silicon |
 | -------- | --------- | ------------- |
-| macOS    | [.dmg](https://github.com/MerzoukeMansouri/mermaid-live-visualizer-/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-x64.dmg) | [.dmg](https://github.com/MerzoukeMansouri/mermaid-live-visualizer-/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-arm64.dmg) |
-| Windows  | [.exe](https://github.com/MerzoukeMansouri/mermaid-live-visualizer-/releases/latest/download/Mermaid.Live.Visualizer-Setup-1.1.0.exe) | — |
-| Linux    | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-live-visualizer-/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-x64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-live-visualizer-/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-x64.deb) | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-live-visualizer-/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-arm64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-live-visualizer-/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-arm64.deb) |
+| macOS    | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-x64.dmg) | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-arm64.dmg) |
+| Windows  | [.exe](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-Setup-1.1.0.exe) | — |
+| Linux    | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-x64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-x64.deb) | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-arm64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-arm64.deb) |
 
-> **Note**: Links above are for v1.1.0. For other versions, visit the [releases page](https://github.com/MerzoukeMansouri/mermaid-live-visualizer-/releases).
+> **Note**: Links above are for v1.1.0. For other versions, visit the [releases page](https://github.com/MerzoukeMansouri/mermaid-ai/releases).
 
 ## License
 
