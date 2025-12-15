@@ -66,13 +66,6 @@
           ]
         },
         {
-          "target": "pkg",
-          "arch": [
-            "x64",
-            "arm64"
-          ]
-        },
-        {
           "target": "zip",
           "arch": [
             "x64",
@@ -80,10 +73,6 @@
           ]
         }
       ]
-    },
-    "pkg": {
-      "installLocation": "/Applications",
-      "artifactName": "${productName}-${version}-${arch}.${ext}"
     },
     "dmg": {
       "contents": [

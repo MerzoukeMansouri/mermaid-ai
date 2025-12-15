@@ -47,7 +47,7 @@ Download the latest release for your platform:
 
 | Platform | Format             |
 | -------- | ------------------ |
-| macOS    | `.dmg` `.pkg`      |
+| macOS    | `.dmg` `.zip`      |
 | Windows  | `.exe`             |
 | Linux    | `.AppImage` `.deb` |
 

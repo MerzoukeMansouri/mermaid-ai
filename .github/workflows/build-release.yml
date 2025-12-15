@@ -115,7 +115,6 @@ jobs:
           tag_name: v${{ needs.release.outputs.new_release_version }}
           files: |
             dist/*.dmg
-            dist/*.pkg
             dist/*.zip
             dist/*.exe
             dist/*.AppImage
