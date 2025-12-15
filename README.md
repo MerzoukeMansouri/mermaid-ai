@@ -2,7 +2,7 @@
   <img src="build/icon.png" alt="Mermaid Live Visualizer" width="128" height="128">
 </p>
 
-<h1 align="center">Mermaid Live Visualizer</h1>
+<h1 align="center">Mermaid AI</h1>
 
 <p align="center">
   <strong>A beautiful desktop app for live-previewing Mermaid diagrams</strong>
