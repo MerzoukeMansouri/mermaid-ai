@@ -51,10 +51,10 @@ npm start
 
 Download the [latest release](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest) for your platform:
 
-| Platform | Intel/AMD | Apple Silicon |
-| -------- | --------- | ------------- |
-| macOS    | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-x64.dmg) | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-arm64.dmg) |
-| Windows  | [.exe](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-Setup.exe) | — |
+| Platform | Intel/AMD                                                                                                                                                                                                         | Apple Silicon                                                                                                                                                                                                         |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| macOS    | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-x64.dmg)                                                                                                                | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-arm64.dmg)                                                                                                                  |
+| Windows  | [.exe](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-Setup.exe)                                                                                                              | —                                                                                                                                                                                                                     |
 | Linux    | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-x64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-x64.deb) | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-arm64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-arm64.deb) |
 
 ### macOS Installation
@@ -65,6 +65,7 @@ The app is not signed with an Apple Developer certificate. On first launch:
 2. Click **Open** in the dialog
 
 Or run this command in Terminal:
+
 ```bash
 xattr -cr /Applications/Mermaid\ AI.app
 ```
