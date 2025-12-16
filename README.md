@@ -5,7 +5,7 @@
 <h1 align="center">Mermaid AI</h1>
 
 <p align="center">
-  <strong>A beautiful desktop app for live-previewing Mermaid diagrams</strong>
+  <strong>A beautiful desktop app for live-previewing  Mermaid diagrams 🖖</strong>
 </p>
 
 <p align="center">
