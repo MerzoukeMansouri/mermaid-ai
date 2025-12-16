@@ -53,11 +53,9 @@ Download the [latest release](https://github.com/MerzoukeMansouri/mermaid-ai/rel
 
 | Platform | Intel/AMD | Apple Silicon |
 | -------- | --------- | ------------- |
-| macOS    | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-1.1.0-x64.dmg) | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-1.1.0-arm64.dmg) |
-| Windows  | [.exe](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-Setup-1.1.0.exe) | — |
-| Linux    | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-1.1.0-x64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-1.1.0-x64.deb) | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-1.1.0-arm64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-1.1.0-arm64.deb) |
-
-> **Note**: Links above are for v1.1.0. For other versions, visit the [releases page](https://github.com/MerzoukeMansouri/mermaid-ai/releases).
+| macOS    | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-x64.dmg) | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-arm64.dmg) |
+| Windows  | [.exe](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-Setup.exe) | — |
+| Linux    | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-x64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-x64.deb) | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-arm64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-arm64.deb) |
 
 ### macOS Installation
 

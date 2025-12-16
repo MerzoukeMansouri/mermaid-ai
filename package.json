@@ -87,7 +87,7 @@
           "path": "/Applications"
         }
       ],
-      "artifactName": "${productName}-${version}-${arch}.${ext}"
+      "artifactName": "${productName}-${arch}.${ext}"
     },
     "win": {
       "target": [
@@ -109,7 +109,7 @@
     "nsis": {
       "oneClick": false,
       "allowToChangeInstallationDirectory": true,
-      "artifactName": "${productName}-Setup-${version}.${ext}"
+      "artifactName": "${productName}-Setup.${ext}"
     },
     "linux": {
       "target": [
@@ -131,10 +131,10 @@
       "category": "Development",
       "icon": "build/icons",
       "maintainer": "Mermaid AI <merzouke@m14i.com>",
-      "artifactName": "${productName}-${version}-${arch}.${ext}"
+      "artifactName": "${productName}-${arch}.${ext}"
     },
     "appImage": {
-      "artifactName": "${productName}-${version}-${arch}.AppImage"
+      "artifactName": "${productName}-${arch}.AppImage"
     }
   }
 }
