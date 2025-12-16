@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="build/icon.png" alt="Mermaid Live Visualizer" width="128" height="128">
+  <img src="build/icon.png" alt="Mermaid AI" width="128" height="128">
 </p>
 
 <h1 align="center">Mermaid AI</h1>
@@ -53,11 +53,23 @@ Download the [latest release](https://github.com/MerzoukeMansouri/mermaid-ai/rel
 
 | Platform | Intel/AMD | Apple Silicon |
 | -------- | --------- | ------------- |
-| macOS    | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-x64.dmg) | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-arm64.dmg) |
-| Windows  | [.exe](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-Setup-1.1.0.exe) | — |
-| Linux    | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-x64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-x64.deb) | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-arm64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.Live.Visualizer-1.1.0-arm64.deb) |
+| macOS    | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-1.1.0-x64.dmg) | [.dmg](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-1.1.0-arm64.dmg) |
+| Windows  | [.exe](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-Setup-1.1.0.exe) | — |
+| Linux    | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-1.1.0-x64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-1.1.0-x64.deb) | [.AppImage](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-1.1.0-arm64.AppImage) / [.deb](https://github.com/MerzoukeMansouri/mermaid-ai/releases/latest/download/Mermaid.AI-1.1.0-arm64.deb) |
 
 > **Note**: Links above are for v1.1.0. For other versions, visit the [releases page](https://github.com/MerzoukeMansouri/mermaid-ai/releases).
+
+### macOS Installation
+
+The app is not signed with an Apple Developer certificate. On first launch:
+
+1. **Right-click** the app and select **Open**
+2. Click **Open** in the dialog
+
+Or run this command in Terminal:
+```bash
+xattr -cr /Applications/Mermaid\ AI.app
+```
 
 ## License
 
